@@ -4,7 +4,7 @@ import { CardSummary } from "./components/CardSummary";
 import { LastCustomers } from "./components/LastCustomers";
 import {UsersRound, Waypoints, BookOpenCheck} from "lucide-react";
 
-export const dataCardsSummary=[
+const dataCardsSummary=[
   {
     icon: UsersRound,
     total: "12.450",

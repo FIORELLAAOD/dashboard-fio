@@ -1,1 +1,1 @@
-import * from "./SidebarItem"
+export * from "./SidebarItem"
